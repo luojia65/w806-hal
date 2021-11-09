@@ -22,3 +22,7 @@
 - [ ] 触摸控制传感器
 
 另外：隔壁PAC库也需要贡献，积少成多，欢迎大家一起来！！
+
+有用的链接：
+
+- 规格书、应用手册、寄存器手册、SDK包（在[这里](https://h.hlktech.com/Mobile/download/fdetail/143.html)）。感谢hlktech！
